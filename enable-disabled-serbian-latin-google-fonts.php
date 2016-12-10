@@ -80,7 +80,6 @@ class Enable_Disabled_Serbian_Latin_Google_Fonts {
 		return $translations;
 	}
 
-
 	/**
 	 * Force 'on' as a result of Inconsolata font toggler string translation.
 	 *
