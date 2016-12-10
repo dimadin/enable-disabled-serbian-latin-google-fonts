@@ -1,0 +1,22 @@
+{
+	"name": "dimadin/enable-disabled-serbian-latin-google-fonts",
+	"description": "Enable enqueuing of Google fonts disabled in Serbian language package.",
+	"keywords": ["google fonts", "serbian latin"],
+	"type": "wordpress-plugin",
+	"homepage": "http://blog.milandinic.com/wordpress/plugins/enable-disabled-serbian-latin-google-fonts/",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Milan Dinić",
+			"email": "milan@srpski.biz",
+			"homepage": "http://blog.milandinic.com/"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/dimadin/enable-disabled-serbian-latin-google-fonts/issues",
+		"source": "https://github.com/dimadin/enable-disabled-serbian-latin-google-fonts"
+	},
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
