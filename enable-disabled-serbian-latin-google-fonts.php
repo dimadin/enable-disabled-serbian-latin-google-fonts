@@ -18,6 +18,7 @@
  * Version:     1.0-beta-1
  * Text Domain: enable-disabled-serbian-latin-google-fonts
  * Domain Path: /languages/
+ * License:     GPL
  */
 
 /* Exit if accessed directly */
