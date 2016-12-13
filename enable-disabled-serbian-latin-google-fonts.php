@@ -11,7 +11,7 @@
 
 /**
  * Plugin Name: Enable Disabled Serbian Latin Google Fonts
- * Plugin URI:  http://blog.milandinic.com/wordpress/plugins/
+ * Plugin URI:  http://blog.milandinic.com/wordpress/plugins/enable-disabled-serbian-latin-google-fonts/
  * Description: Enable enqueuing of Google fonts disabled in Serbian language package.
  * Author:      Milan Dinić
  * Author URI:  http://blog.milandinic.com/
